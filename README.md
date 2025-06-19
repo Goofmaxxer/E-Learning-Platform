@@ -37,7 +37,7 @@ A simple and responsive E-Learning platform built using **React.js**. It allows 
 
 ## Screenshot
 
-
+![Image](https://github.com/user-attachments/assets/dd76a757-c864-4484-8118-56ae47ec643b)
 
 ---
 
